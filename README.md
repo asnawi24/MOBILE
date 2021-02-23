@@ -1,2 +1,10 @@
 # MOBILE
-void main() { String nama = "Mariana Simaremare"; int umur = 21; double tinggi = 150.35; bool isMenikah = false; var alamat = "Siborong-borong, Indonesia"; print("Nama saya $nama. Umur $umur tahun. Tinggi sekitar $tinggi cm."); print("Menikah: $isMenikah"); print("Alamat: $alamat")
+void main() { 
+String nama = "Asnawi tp manalu"; 
+int umur = 24; 
+double tinggi = 170.35; 
+ var alamat = "Pangaribuan, Indonesia"; 
+print("Nama saya $nama. Umur $umur tahun. 
+Tinggi sekitar $tinggi cm."); 
+ print("Alamat: $alamat")
+}
